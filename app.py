@@ -1,4 +1,3 @@
-
 ###### TO RUN THE CODE USE BELOW LINE TO RUN IN TERMINAL. THANKS 
 ###### python -m streamlit run app.py
 
@@ -540,9 +539,8 @@ elif selected == "Dashboard":
                 colorscale='Blues',
                 showscale=True,
                 colorbar=dict(
-                    title="ROC-AUC Score",
+                    title=dict(text="ROC-AUC Score", font=dict(size=14, family='Poppins')),
                     tickcolor='#e6edf3',
-                    titlefont=dict(size=14, family='Poppins')
                 ),
                 line=dict(color='#30363d', width=2)
             ),
