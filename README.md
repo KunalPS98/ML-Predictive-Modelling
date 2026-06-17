@@ -170,4 +170,6 @@ CV_STRATEGY  = RepeatedStratifiedKFold(n_splits=5, n_repeats=3)
 
 **Kunal**
 MSc Data Analytics
+QA Engineer | Data Analytics Enthusiast
 [GitHub: KunalPS98](https://github.com/KunalPS98)
+
